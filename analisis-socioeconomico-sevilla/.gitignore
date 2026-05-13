@@ -1,0 +1,26 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Datos pesados (los datos viven en sevilla-data-hub)
+data/raw/
+*.zip
+
+# Outputs temporales
+*.tmp
+*.log
