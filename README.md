@@ -16,7 +16,3 @@ A través del proyecto se desarrollarán distintos análisis, entre ellos:
 - deuda pública local
 - comparación entre municipios
 - clasificación de municipios mediante técnicas de clustering
-
-Uno de los primeros análisis será un clustering jerárquico de todos los municipios de Sevilla. Este análisis permitirá clasificar los municipios en grupos con características socioeconómicas similares.
-
-A partir de esa clasificación se estudiará el caso de Morón de la Frontera, comparándolo con los municipios que pertenezcan a su mismo grupo y añadiendo, cuando sea necesario, otros municipios cercanos para enriquecer la comparación territorial.
