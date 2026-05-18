@@ -1,10 +1,10 @@
 ## Objetivo
 
-El objetivo principal es analizar la realidad socioeconómica de los municipios de la provincia de Sevilla mediante datos abiertos, con especial atención a Morón de la Frontera.
+El objetivo principal es analizar la realidad socioeconómica de los municipios de la provincia de Sevilla haciendo especial hincapié en Morón de la Frontera, que es el pueblo donde nací y crecí. 
 
-Este repositorio servirá como espacio de trabajo para conocer mejor la situación económica, demográfica y territorial de los municipios sevillanos y, al mismo tiempo, mejorar mis capacidades de análisis de datos, limpieza de información, visualización, estadística aplicada y comunicación de resultados.
+Además, este repositorio servirá como espacio de trabajo para mejorar mis capacidades de análisis de datos, limpieza de información, visualización, estadística aplicada y comunicación de resultados.
 
-A través del proyecto se desarrollarán distintos análisis, entre ellos:
+Se realizarán diferentes análisis,entre ellos:
 
 - evolución de la población
 - estructura demográfica
